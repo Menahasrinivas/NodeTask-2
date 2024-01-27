@@ -9,11 +9,13 @@
   "name": "nodetask-2",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "dev":"nodemon index.js"
+    "start":"node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "This is a Hall booking task created by using nodejs.",
+  "devDependencies": {}
 }
